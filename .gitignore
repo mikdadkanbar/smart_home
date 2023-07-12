@@ -1,0 +1,14 @@
+playground/
+myhomedb/
+myhome2/
+reports/*.db
+reports/.ipynb_checkpoints
+reports/.DS_Store
+
+tools/*.db
+tools/__pycache__
+
+*.db
+.Rhistory
+__pycache__
+.DS_Store

@@ -1,0 +1,423 @@
+epoch	capability	attribute	value	unit	deviceLabel	location	deviceId
+2023-01-25T20:23:56Z	switch	switch	off		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-25T20:23:57Z	switch	switch	off		Light: ceiling 1	green room	735b24fc-a59f-474140-898e86-5960eafc1bd7
+2023-01-25T20:46:35Z	switch	switch	on		Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-25T20:46:36Z	colorTemperature	colorTemperature	3253	K	Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-25T20:46:36Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-25T20:46:36Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-25T20:46:36Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-25T20:46:38Z	powerMeter	power	7	W	Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-25T20:59:53Z	switch	switch	off		Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-25T20:59:53Z	switch	switch	off		Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-25T20:59:54Z	powerMeter	power	0	W	Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-25T20:59:54Z	switch	switch	off		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-25T21:15:18Z	colorTemperature	colorTemperature	3200	K	Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T06:26:06Z	switch	switch	on		Light: ceiling 1	green room	735b24fc-a59f-474140-898e86-5960eafc1bd7
+2023-01-26T06:26:08Z	switch	switch	on		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-26T07:01:13Z	switch	switch	on		Light: ceiling	living room	b1e834da-20c7-484443-999b9d-8ce5abd64731
+2023-01-26T07:09:38Z	switch	switch	on		Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T07:09:39Z	colorTemperature	colorTemperature	3253	K	Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T07:09:39Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T07:09:39Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T07:09:39Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T07:09:41Z	powerMeter	power	7	W	Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T07:09:52Z	switch	switch	off		Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T07:09:52Z	switch	switch	off		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T07:09:53Z	powerMeter	power	0	W	Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T07:10:14Z	switch	switch	off		Light: ceiling	living room	b1e834da-20c7-484443-999b9d-8ce5abd64731
+2023-01-26T07:22:04Z	switch	switch	off		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-26T07:22:05Z	switch	switch	off		Light: ceiling 1	green room	735b24fc-a59f-474140-898e86-5960eafc1bd7
+2023-01-26T16:16:05Z	switch	switch	on		Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T16:16:05Z	switch	switch	on		Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T16:16:06Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T16:16:06Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T16:16:06Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T16:16:08Z	powerMeter	power	7	W	Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T16:47:40Z	switch	switch	off		Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T16:47:41Z	switch	switch	off		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T16:47:42Z	powerMeter	power	0	W	Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T16:47:46Z	switch	switch	on		Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T16:47:46Z	switch	switch	on		Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T16:47:47Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T16:47:47Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T16:47:47Z	switch	switch	on		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T16:47:50Z	powerMeter	power	7	W	Light: corner 3	living room	c4258ebd-d7ce-484043-8f8688-ea4df203916b
+2023-01-26T17:14:05Z	switch	switch	on		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-26T17:15:11Z	switch	switch	off		Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-26T18:15:19Z	switch	switch	off		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-26T18:51:20Z	switch	switch	on		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-26T19:08:08Z	switch	switch	on		Light: ceiling 1	green room	735b24fc-a59f-474140-898e86-5960eafc1bd7
+2023-01-26T19:54:11Z	switch	switch	off		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-26T19:54:11Z	switch	switch	off		Light: ceiling 1	green room	735b24fc-a59f-474140-898e86-5960eafc1bd7
+2023-01-26T21:15:09Z	colorTemperature	colorTemperature	3200	K	Light: sofa	living room	3e7cf5b6-9d40-44424f-aca1a0-7a4392501bcd
+2023-01-27T17:09:38Z	switch	switch	on		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-27T18:27:19Z	switch	switch	off		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-27T20:30:13Z	switch	switch	off		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-27T20:30:13Z	switch	switch	off		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-27T20:30:15Z	powerMeter	power	0	W	Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-28T00:02:20Z	switch	switch	on		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-28T00:02:23Z	powerMeter	power	6	W	Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-28T00:03:35Z	switch	switch	off		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-28T00:03:36Z	powerMeter	power	0	W	Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-28T05:51:23Z	switch	switch	on		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-28T06:20:27Z	switch	switch	off		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-28T06:30:34Z	motionSensor	motion	inactive		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T06:32:16Z	motionSensor	motion	active		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T06:33:19Z	motionSensor	motion	inactive		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T06:33:33Z	motionSensor	motion	active		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T06:34:54Z	motionSensor	motion	inactive		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T06:37:10Z	motionSensor	motion	active		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T06:38:48Z	motionSensor	motion	inactive		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T06:57:51Z	motionSensor	motion	active		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:00:27Z	motionSensor	motion	inactive		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:00:52Z	motionSensor	motion	active		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:05:11Z	motionSensor	motion	inactive		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:05:27Z	motionSensor	motion	active		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:07:37Z	motionSensor	motion	inactive		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:09:28Z	motionSensor	motion	active		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:16:30Z	motionSensor	motion	inactive		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:22:45Z	motionSensor	motion	active		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:24:00Z	motionSensor	motion	inactive		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:26:29Z	motionSensor	motion	active		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:38:33Z	motionSensor	motion	inactive		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T07:40:04Z	motionSensor	motion	active		Sensor: kitchen 2	kitchen	b9c23f70-1ae9-41484e-bfb6ba-b0f91ae834cd
+2023-01-28T17:23:25Z	switch	switch	on		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-28T19:12:21Z	switch	switch	on		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-28T19:12:24Z	powerMeter	power	6	W	Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-28T19:18:46Z	switch	switch	off		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-28T19:18:47Z	powerMeter	power	0	W	Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-28T19:33:52Z	switch	switch	off		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-28T21:33:31Z	switch	switch	on		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-28T21:44:05Z	switch	switch	off		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-28T21:44:05Z	switch	switch	off		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-28T22:38:29Z	button	button	pushed		Button: bathroom	bathroom	517c960f-e2f7-4b4143-9d979e-973a5d08ce64
+2023-01-29T09:10:47Z	switch	switch	on		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-29T09:10:50Z	switch	switch	off		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-29T12:21:35Z	switch	switch	on		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-29T12:21:38Z	powerMeter	power	6	W	Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-29T12:26:49Z	switch	switch	off		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-29T12:26:49Z	switch	switch	off		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-29T12:26:50Z	powerMeter	power	0	W	Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-29T15:49:52Z	switch	switch	on		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-29T15:59:36Z	switch	switch	on		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-29T15:59:40Z	powerMeter	power	6	W	Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-29T16:04:45Z	switch	switch	off		Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-29T16:04:46Z	powerMeter	power	0	W	Light: on wall	garden	cd3e2870-634c-4d4b41-b4bfb6-ce183927b50d
+2023-01-29T16:28:41Z	switch	switch	off		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-29T18:44:59Z	switch	switch	on		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-29T19:14:55Z	switch	switch	off		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-29T19:14:55Z	switch	switch	off		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-29T19:17:14Z	button	button	double		Button: bathroom	bathroom	517c960f-e2f7-4b4143-9d979e-973a5d08ce64
+2023-01-29T19:17:14Z	switch	switch	on		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-29T19:17:15Z	button	button	pushed		Button: bathroom	bathroom	517c960f-e2f7-4b4143-9d979e-973a5d08ce64
+2023-01-29T19:26:29Z	switch	switch	off		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-29T19:30:18Z	switch	switch	on		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-29T19:47:48Z	switch	switch	off		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-29T19:48:59Z	switch	switch	on		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-29T20:31:52Z	switch	switch	off		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-29T20:38:44Z	switch	switch	on		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-29T22:24:26Z	switch	switch	off		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-30T07:17:47Z	switch	switch	on		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-30T07:23:09Z	switch	switch	off		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-30T17:32:45Z	switch	switch	on		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-30T20:47:04Z	switch	switch	on		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-30T20:58:23Z	switch	switch	off		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-30T22:35:45Z	switch	switch	off		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-31T07:10:27Z	switch	switch	on		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-31T07:33:04Z	switch	switch	off		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-31T09:25:40Z	switch	switch	on		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T09:52:57Z	switch	switch	off		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T12:24:12Z	switch	switch	on		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T12:33:48Z	switch	switch	off		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T16:00:44Z	switch	switch	on		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T16:03:41Z	switch	switch	off		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T16:42:58Z	switch	switch	on		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-31T16:49:04Z	switch	switch	off		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-31T18:27:02Z	switch	switch	on		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T18:42:08Z	switch	switch	off		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T18:53:16Z	switch	switch	on		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-31T18:53:42Z	switch	switch	on		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-31T19:04:21Z	switch	switch	off		Light: shelf	bathroom	53de4f8b-925f-4c4740-bdbcbe-5e60b1294a7f
+2023-01-31T19:25:22Z	switch	switch	on		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T19:38:09Z	switch	switch	off		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-31T19:47:33Z	switch	switch	off		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T19:57:57Z	switch	switch	on		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T19:59:17Z	switch	switch	off		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T20:16:48Z	switch	switch	on		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-31T20:22:07Z	switch	switch	on		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-31T20:59:42Z	switch	switch	on		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T21:00:04Z	switch	switch	on		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T21:14:49Z	switch	switch	off		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T21:18:44Z	switch	switch	off		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-01-31T21:41:04Z	switch	switch	on		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T21:50:49Z	switch	switch	off		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T23:02:48Z	switch	switch	off		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-01-31T23:09:34Z	switch	switch	on		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T23:12:53Z	switch	switch	off		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T23:13:50Z	switch	switch	on		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T23:16:17Z	switch	switch	off		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-01-31T23:33:40Z	switch	switch	off		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T23:36:57Z	switch	switch	on		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-01-31T23:39:35Z	switch	switch	off		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-02-01T06:20:57Z	switch	switch	on		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-02-01T06:43:54Z	switch	switch	off		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-02-01T06:47:21Z	switch	switch	on		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-02-01T06:50:50Z	switch	switch	on		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-02-01T06:59:54Z	switch	switch	off		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-02-01T06:59:58Z	switch	switch	off		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-02-01T07:00:18Z	switch	switch	on		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-02-01T07:01:13Z	switch	switch	off		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-02-01T07:15:22Z	switch	switch	on		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-02-01T07:47:25Z	switch	switch	off		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-02-01T08:35:09Z	relativeHumidityMeasurement	humidity	58	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T08:35:39Z	relativeHumidityMeasurement	humidity	60	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T08:36:29Z	relativeHumidityMeasurement	humidity	59	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T08:37:39Z	relativeHumidityMeasurement	humidity	58	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T08:43:30Z	relativeHumidityMeasurement	humidity	57	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T08:51:32Z	relativeHumidityMeasurement	humidity	56	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T09:05:03Z	energyMeter	energy	10.743	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T09:05:05Z	temperatureMeasurement	temperature	17.6	°C	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T09:23:09Z	relativeHumidityMeasurement	humidity	55	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T09:35:03Z	energyMeter	energy	10.759	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T10:05:03Z	energyMeter	energy	10.769	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T10:05:04Z	temperatureMeasurement	temperature	17.5	°C	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T10:23:09Z	relativeHumidityMeasurement	humidity	54	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T10:35:03Z	energyMeter	energy	10.773	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T10:35:04Z	temperatureMeasurement	temperature	17.5	°C	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T11:16:08Z	button	button	double		Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T11:16:09Z	button	button	pushed		Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T11:16:30Z	switch	switch	on		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-02-01T11:16:37Z	switch	switch	off		TV	living room	0174c95f-78bf-4b4a45-9c969d-ca795240bf3d
+2023-02-01T11:20:45Z	temperatureMeasurement	temperature	17.5	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T11:30:50Z	temperatureMeasurement	temperature	17.6	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T11:32:54Z	motionSensor	motion	active		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T11:32:56Z	motionSensor	motion	inactive		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T11:35:04Z	temperatureMeasurement	temperature	17.6	°C	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T11:43:42Z	motionSensor	motion	active		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T11:43:44Z	motionSensor	motion	inactive		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T11:55:04Z	energyMeter	energy	10.777	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T11:55:11Z	motionSensor	motion	active		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T11:55:13Z	motionSensor	motion	inactive		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T11:59:52Z	signalStrength	lqi	192		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T11:59:56Z	contactSensor	contact	closed		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T12:05:05Z	temperatureMeasurement	temperature	17.7	°C	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T12:17:24Z	relativeHumidityMeasurement	humidity	48	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T12:25:04Z	energyMeter	energy	10.784	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T12:26:08Z	contactSensor	contact	open		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T12:26:36Z	contactSensor	contact	closed		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T12:29:07Z	relativeHumidityMeasurement	humidity	47	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T12:30:14Z	temperatureMeasurement	temperature	16.7	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T12:35:04Z	temperatureMeasurement	temperature	17.8	°C	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T12:35:04Z	energyMeter	energy	10.796	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T12:36:21Z	temperatureMeasurement	temperature	17.7	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T12:37:37Z	temperatureMeasurement	temperature	19	°C	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T12:39:25Z	motionSensor	motion	active		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T12:39:27Z	motionSensor	motion	inactive		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T12:40:22Z	temperatureMeasurement	temperature	16.8	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T12:42:25Z	relativeHumidityMeasurement	humidity	80	%	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T12:45:24Z	temperatureMeasurement	temperature	16.9	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T12:46:16Z	temperatureMeasurement	temperature	11.7	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T12:48:06Z	relativeHumidityMeasurement	humidity	79	%	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T12:55:30Z	temperatureMeasurement	temperature	17	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T12:56:30Z	temperatureMeasurement	temperature	17.8	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T13:05:04Z	temperatureMeasurement	temperature	17.9	°C	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T13:07:37Z	temperatureMeasurement	temperature	18.9	°C	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T13:08:41Z	relativeHumidityMeasurement	humidity	80	%	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T13:10:17Z	relativeHumidityMeasurement	humidity	55	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T13:11:12Z	temperatureMeasurement	temperature	10.7	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T13:11:37Z	temperatureMeasurement	temperature	17.7	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T13:15:05Z	energyMeter	energy	10.804	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T13:16:51Z	signalStrength	lqi	194		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T13:16:51Z	signalStrength	rssi	-85	dBm	Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T13:20:46Z	temperatureMeasurement	temperature	16.9	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T13:24:15Z	relativeHumidityMeasurement	humidity	81	%	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T13:25:49Z	temperatureMeasurement	temperature	16.8	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T13:35:04Z	temperatureMeasurement	temperature	18.1	°C	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T13:36:49Z	temperatureMeasurement	temperature	17.6	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T13:36:53Z	relativeHumidityMeasurement	humidity	54	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T13:40:58Z	temperatureMeasurement	temperature	16.7	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T13:41:12Z	temperatureMeasurement	temperature	9.8	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T13:46:30Z	relativeHumidityMeasurement	humidity	82	%	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T13:58:45Z	motionSensor	motion	active		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T13:58:47Z	motionSensor	motion	inactive		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T14:05:05Z	energyMeter	energy	10.815	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T14:06:14Z	temperatureMeasurement	temperature	16.8	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T14:06:26Z	contactSensor	contact	open		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T14:06:32Z	contactSensor	contact	closed		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T14:07:37Z	temperatureMeasurement	temperature	18.8	°C	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T14:09:25Z	relativeHumidityMeasurement	humidity	83	%	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T14:11:13Z	temperatureMeasurement	temperature	9.4	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T14:11:17Z	temperatureMeasurement	temperature	16.7	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T14:23:24Z	temperatureMeasurement	temperature	7.5	°C	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T14:23:25Z	illuminanceMeasurement	illuminance	133	lux	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T14:27:12Z	temperatureMeasurement	temperature	17.7	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T14:36:07Z	motionSensor	motion	active		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T14:36:09Z	motionSensor	motion	inactive		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T14:38:57Z	motionSensor	motion	active		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T14:38:59Z	motionSensor	motion	inactive		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T14:40:43Z	illuminanceMeasurement	illuminance	104	lux	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T14:41:14Z	temperatureMeasurement	temperature	9.2	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T14:42:33Z	motionSensor	motion	active		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T14:43:33Z	motionSensor	motion	inactive		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T14:45:05Z	energyMeter	energy	10.82	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T14:45:59Z	switch	switch	on		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-02-01T14:46:57Z	switch	switch	off		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-02-01T14:47:21Z	temperatureMeasurement	temperature	17.8	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T14:47:49Z	motionSensor	motion	active		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T14:48:49Z	motionSensor	motion	inactive		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T14:55:06Z	energyMeter	energy	10.826	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T14:56:45Z	temperatureMeasurement	temperature	16.8	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T14:56:47Z	signalStrength	lqi	170		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T14:56:47Z	signalStrength	rssi	-86	dBm	Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T14:57:26Z	temperatureMeasurement	temperature	17.9	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T14:57:47Z	relativeHumidityMeasurement	humidity	85	%	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T14:58:01Z	relativeHumidityMeasurement	humidity	82	%	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T14:58:02Z	illuminanceMeasurement	illuminance	126	lux	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T15:02:28Z	temperatureMeasurement	temperature	18	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T15:03:18Z	motionSensor	motion	active		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T15:04:18Z	motionSensor	motion	inactive		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T15:05:06Z	energyMeter	energy	10.847	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T15:06:52Z	temperatureMeasurement	temperature	16.9	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T15:07:37Z	temperatureMeasurement	temperature	18.7	°C	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T15:11:14Z	temperatureMeasurement	temperature	9.1	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T15:11:55Z	temperatureMeasurement	temperature	17	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T15:15:01Z	motionSensor	motion	active		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T15:15:03Z	motionSensor	motion	inactive		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T15:15:19Z	temperatureMeasurement	temperature	7.4	°C	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T15:15:20Z	illuminanceMeasurement	illuminance	76	lux	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T15:16:58Z	temperatureMeasurement	temperature	17.1	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T15:17:35Z	temperatureMeasurement	temperature	18.1	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T15:17:38Z	temperatureMeasurement	temperature	19	°C	Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T15:17:39Z	relativeHumidityMeasurement	humidity	53	%	Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T15:22:38Z	temperatureMeasurement	temperature	18.2	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T15:23:07Z	motionSensor	motion	active		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T15:24:12Z	motionSensor	motion	inactive		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T15:29:07Z	relativeHumidityMeasurement	humidity	48	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T15:32:37Z	temperatureMeasurement	temperature	7.2	°C	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T15:32:37Z	relativeHumidityMeasurement	humidity	83	%	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T15:32:38Z	illuminanceMeasurement	illuminance	48	lux	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T15:37:45Z	temperatureMeasurement	temperature	18.3	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T15:41:15Z	temperatureMeasurement	temperature	8.7	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T15:45:06Z	energyMeter	energy	10.857	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T15:46:40Z	relativeHumidityMeasurement	humidity	49	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T15:47:04Z	motionSensor	motion	active		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T15:47:06Z	motionSensor	motion	inactive		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T15:48:23Z	motionSensor	motion	active		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T15:48:51Z	relativeHumidityMeasurement	humidity	48	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T15:49:31Z	motionSensor	motion	inactive		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T15:49:56Z	illuminanceMeasurement	illuminance	35	lux	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T15:51:48Z	motionSensor	motion	active		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T15:51:52Z	relativeHumidityMeasurement	humidity	49	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T15:52:22Z	relativeHumidityMeasurement	humidity	51	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T15:52:52Z	relativeHumidityMeasurement	humidity	49	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T15:53:24Z	illuminanceMeasurement	illuminance	28	lux	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T15:53:24Z	motionSensor	motion	active		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T15:54:25Z	motionSensor	motion	inactive		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T15:54:35Z	motionSensor	motion	active		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T15:54:37Z	motionSensor	motion	inactive		Button: green room	green room	eb182d56-a936-464a42-85838b-3ae7c850f1d4
+2023-02-01T15:54:58Z	motionSensor	motion	active		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T15:55:06Z	contactSensor	contact	open		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T15:55:12Z	relativeHumidityMeasurement	humidity	48	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T15:55:58Z	motionSensor	motion	inactive		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T15:56:05Z	motionSensor	motion	inactive		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T15:56:22Z	motionSensor	motion	active		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T15:57:03Z	contactSensor	contact	closed		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T15:57:03Z	signalStrength	lqi	202		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T15:57:03Z	signalStrength	rssi	-85	dBm	Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T15:57:45Z	contactSensor	contact	open		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T15:57:54Z	temperatureMeasurement	temperature	18.4	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T16:00:29Z	temperatureMeasurement	temperature	16.9	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T16:00:31Z	contactSensor	contact	closed		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T16:00:43Z	relativeHumidityMeasurement	humidity	49	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T16:01:21Z	motionSensor	motion	inactive		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T16:01:43Z	temperatureMeasurement	temperature	18.1	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T16:05:06Z	energyMeter	energy	10.862	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T16:05:32Z	temperatureMeasurement	temperature	16.8	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T16:06:05Z	relativeHumidityMeasurement	humidity	48	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T16:07:13Z	temperatureMeasurement	temperature	7.3	°C	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T16:07:14Z	relativeHumidityMeasurement	humidity	84	%	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T16:07:15Z	illuminanceMeasurement	illuminance	14	lux	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T16:10:35Z	temperatureMeasurement	temperature	16.9	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T16:11:02Z	motionSensor	motion	active		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:11:16Z	temperatureMeasurement	temperature	8.4	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T16:11:47Z	temperatureMeasurement	temperature	18.2	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T16:11:59Z	motionSensor	motion	inactive		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:12:10Z	motionSensor	motion	active		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:13:04Z	motionSensor	motion	inactive		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:15:06Z	energyMeter	energy	10.868	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T16:15:15Z	relativeHumidityMeasurement	humidity	86	%	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T16:16:38Z	temperatureMeasurement	temperature	19.1	°C	Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T16:16:39Z	relativeHumidityMeasurement	humidity	52	%	Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T16:22:12Z	motionSensor	motion	active		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:22:43Z	motionSensor	motion	inactive		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:23:14Z	motionSensor	motion	active		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:23:45Z	motionSensor	motion	inactive		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:24:33Z	illuminanceMeasurement	illuminance	6	lux	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T16:27:31Z	illuminanceMeasurement	illuminance	6	lux	Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:27:31Z	temperatureMeasurement	temperature	17.7	°C	Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:28:35Z	motionSensor	motion	active		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:29:13Z	switch	switch	on		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-02-01T16:29:50Z	relativeHumidityMeasurement	humidity	51	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T16:29:56Z	switch	switch	off		Light: basin	bathroom	715f3ced-57ae-4b424a-83878c-35fdb0a12c86
+2023-02-01T16:30:20Z	relativeHumidityMeasurement	humidity	49	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T16:30:25Z	motionSensor	motion	inactive		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T16:32:20Z	relativeHumidityMeasurement	humidity	48	%	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T16:35:06Z	energyMeter	energy	10.87	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T16:36:53Z	relativeHumidityMeasurement	humidity	53	%	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T16:37:38Z	temperatureMeasurement	temperature	18.6	°C	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T16:40:54Z	temperatureMeasurement	temperature	17	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T16:41:16Z	temperatureMeasurement	temperature	8.3	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T16:41:41Z	contactSensor	contact	open		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T16:41:50Z	contactSensor	contact	closed		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T16:41:51Z	illuminanceMeasurement	illuminance	0	lux	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T16:41:59Z	motionSensor	motion	active		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T16:42:01Z	temperatureMeasurement	temperature	18.3	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T16:44:07Z	motionSensor	motion	inactive		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T16:44:27Z	motionSensor	motion	active		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T16:44:58Z	motionSensor	motion	active		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T16:45:06Z	energyMeter	energy	10.872	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T16:45:57Z	temperatureMeasurement	temperature	16.9	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T16:45:58Z	motionSensor	motion	inactive		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T16:46:04Z	motionSensor	motion	active		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T16:47:05Z	motionSensor	motion	inactive		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T16:47:28Z	motionSensor	motion	inactive		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T16:49:35Z	motionSensor	motion	active		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T16:50:40Z	motionSensor	motion	inactive		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T16:51:00Z	temperatureMeasurement	temperature	17	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T16:55:06Z	energyMeter	energy	10.897	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T16:55:46Z	motionSensor	motion	active		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T16:57:08Z	temperatureMeasurement	temperature	18.4	°C	Button: kitchen	kitchen	6d729103-b6c8-4d4140-aeafa7-f895b3e6720c
+2023-02-01T16:58:04Z	motionSensor	motion	inactive		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T16:59:08Z	temperatureMeasurement	temperature	7.1	°C	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T16:59:08Z	relativeHumidityMeasurement	humidity	85	%	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T17:00:07Z	motionSensor	motion	active		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T17:01:20Z	motionSensor	motion	inactive		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T17:02:09Z	motionSensor	motion	active		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T17:03:31Z	motionSensor	motion	active		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T17:03:36Z	switch	switch	on		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-02-01T17:03:37Z	motionSensor	motion	active		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T17:03:43Z	switch	switch	off		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-02-01T17:04:08Z	motionSensor	motion	inactive		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T17:04:13Z	switch	switch	on		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-02-01T17:04:15Z	motionSensor	motion	active		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T17:04:17Z	motionSensor	motion	inactive		Sensor: living room	living room	b16e8ad7-0bfa-474a4c-8d8f83-bc461530d8f2
+2023-02-01T17:04:32Z	motionSensor	motion	inactive		Sensor: stairs	living room	3a24059e-972f-404148-8d828f-65b1890c2daf
+2023-02-01T17:04:55Z	motionSensor	motion	inactive		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T17:05:03Z	temperatureMeasurement	temperature	18	°C	Sensor: roof	roof	195a04c2-e49d-4a4c4d-919399-13dcf6e9a782
+2023-02-01T17:05:06Z	energyMeter	energy	10.931	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T17:07:38Z	temperatureMeasurement	temperature	18.5	°C	Sensor: bathroom2	bathroom	9ef8bd74-fe1a-444b4c-808c83-49f2b30c7ead
+2023-02-01T17:08:57Z	switch	switch	on		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-02-01T17:11:17Z	temperatureMeasurement	temperature	8.1	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T17:12:07Z	motionSensor	motion	active		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T17:13:08Z	switch	switch	off		Light: bath	bathroom	ab634e18-827f-4d4643-b7b8b0-4810253da7be
+2023-02-01T17:13:35Z	motionSensor	motion	inactive		Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T17:15:07Z	energyMeter	energy	10.958	kWh	Outlet: hot water	kitchen	6e0a5d1b-c958-43494b-bdb0b4-f91c482ba3e5
+2023-02-01T17:15:17Z	relativeHumidityMeasurement	humidity	87	%	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
+2023-02-01T17:20:57Z	switch	switch	off		Light: ceiling 2	green room	b192f803-15fd-4b4044-858783-851ec729f63b
+2023-02-01T17:32:04Z	signalStrength	lqi	168		Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T17:32:04Z	signalStrength	rssi	-80	dBm	Door: main	kitchen	817bea62-3780-464c4f-888c81-6ac804e29b17
+2023-02-01T17:33:45Z	temperatureMeasurement	temperature	7.2	°C	Sensor: garden	garden	b83fde14-d073-41484c-878d83-ad5c3f29b471
+2023-02-01T17:36:28Z	temperatureMeasurement	temperature	16.9	°C	Button: living room	living room	ac41896f-acb1-4f4c42-a1a2a0-54ae7fb9c182
+2023-02-01T17:37:15Z	illuminanceMeasurement	illuminance	0	lux	Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T17:37:15Z	temperatureMeasurement	temperature	17.8	°C	Sensor: bathroom	bathroom	38a046fc-d5f6-404e4d-b9b1b7-b7af6285493e
+2023-02-01T17:41:18Z	temperatureMeasurement	temperature	7.9	°C	Sensor: shed	garden	f0b648da-4c9b-444c48-a3a0ae-a51ed7cf3096
